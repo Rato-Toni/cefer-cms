@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_home_home_carousels",
+  "info": {
+    "displayName": "Home Carousel",
+    "icon": "stack"
+  },
+  "options": {},
+  "attributes": {
+    "items": {
+      "type": "component",
+      "repeatable": true,
+      "component": "home.home-carousel-item"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_home_home_news",
+  "info": {
+    "displayName": "Home News",
+    "icon": "file"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    }
+  }
+}

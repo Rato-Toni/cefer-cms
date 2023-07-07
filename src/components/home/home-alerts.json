@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_home_home_alerts",
+  "info": {
+    "displayName": "Home Alerts",
+    "icon": "information"
+  },
+  "options": {},
+  "attributes": {
+    "alert": {
+      "type": "string"
+    }
+  }
+}

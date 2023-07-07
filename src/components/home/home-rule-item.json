@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_home_home_rule_item",
+  "info": {
+    "displayName": "Home Rule Item",
+    "icon": "check",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "icon": {
+      "type": "media",
+      "multiple": false,
+      "required": true,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "description": {
+      "type": "text",
+      "required": true
+    }
+  }
+}
